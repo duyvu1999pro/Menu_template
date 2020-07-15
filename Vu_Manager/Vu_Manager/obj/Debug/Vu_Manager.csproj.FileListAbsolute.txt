@@ -8,3 +8,13 @@ D:\IT\C#_source\source\repos\Vu_Manager\Vu_Manager\bin\Debug\Vu_Manager.exe
 D:\IT\C#_source\source\repos\Vu_Manager\Vu_Manager\bin\Debug\Vu_Manager.pdb
 D:\IT\C#_source\source\repos\Vu_Manager\Vu_Manager\obj\Debug\Vu_Manager.exe
 D:\IT\C#_source\source\repos\Vu_Manager\Vu_Manager\obj\Debug\Vu_Manager.pdb
+D:\IT\C#_source\source\repos\Menu_template\Vu_Manager\Vu_Manager\bin\Debug\Vu_Manager.exe.config
+D:\IT\C#_source\source\repos\Menu_template\Vu_Manager\Vu_Manager\bin\Debug\Vu_Manager.exe
+D:\IT\C#_source\source\repos\Menu_template\Vu_Manager\Vu_Manager\bin\Debug\Vu_Manager.pdb
+D:\IT\C#_source\source\repos\Menu_template\Vu_Manager\Vu_Manager\obj\Debug\Vu_Manager.csprojAssemblyReference.cache
+D:\IT\C#_source\source\repos\Menu_template\Vu_Manager\Vu_Manager\obj\Debug\Vu_Manager.Menu.resources
+D:\IT\C#_source\source\repos\Menu_template\Vu_Manager\Vu_Manager\obj\Debug\Vu_Manager.Properties.Resources.resources
+D:\IT\C#_source\source\repos\Menu_template\Vu_Manager\Vu_Manager\obj\Debug\Vu_Manager.csproj.GenerateResource.cache
+D:\IT\C#_source\source\repos\Menu_template\Vu_Manager\Vu_Manager\obj\Debug\Vu_Manager.csproj.CoreCompileInputs.cache
+D:\IT\C#_source\source\repos\Menu_template\Vu_Manager\Vu_Manager\obj\Debug\Vu_Manager.exe
+D:\IT\C#_source\source\repos\Menu_template\Vu_Manager\Vu_Manager\obj\Debug\Vu_Manager.pdb
